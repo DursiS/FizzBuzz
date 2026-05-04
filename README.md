@@ -8,7 +8,7 @@ But first, let's get you your own copy of this codebase to work with.
 _You can read more about Fork here: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo_
 
 You should be currently reading this README on GitHub in the code repository:
-https://github.com/CSC207-2025S-UofT/Lab-1
+https://github.com/CSC207-2026S-UofT/Lab-1
 
 1. Make sure you are logged into GitHub. You should see a button that says `Fork` in the top-right corner of the page.
 Click this button to create a fork of this repository, which will be your own copy of the codebase to edit as you please.
