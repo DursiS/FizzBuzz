@@ -1,6 +1,7 @@
 /**
  * Solve the FizzBuzz challenge.
  */
+// Test to be able to Clone
 class FizzBuzz {
 
     static void main(String args) {
